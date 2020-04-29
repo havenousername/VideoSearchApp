@@ -1,0 +1,1 @@
+{"version":3,"sources":["VideoItem.css"],"names":[],"mappings":"AAAA,YACI,sBAAwB,CACxB,4BAA8B,CAC9B,cACJ,CAEA,OACI,yBACJ","file":"main.8c979fc8.chunk.css","sourcesContent":[".video-item {\n    display: flex !important;\n    align-items: center !important;\n    cursor: pointer;\n}\n\n.image{\n    max-width: 120px !important;\n}"]}
